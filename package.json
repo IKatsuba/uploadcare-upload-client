@@ -63,7 +63,7 @@
     "rollup": "^2.23.0",
     "rollup-plugin-typescript2": "^0.27.1",
     "typescript": "^3.9.7",
-    "@koa/cors": "3.1.0",
+    "@koa/cors": "5.0.0",
     "@koa/router": "10.0.0",
     "@types/form-data": "2.5.0",
     "@types/jest": "26.0.14",
